@@ -8,6 +8,7 @@ I'm a technical writing student learning to document real, public APIs. Each pro
 
 - Agify API — predicts a person's age from a name
 - NASA APOD API — returns the astronomy picture of the day
+- 
 ## How to Use
 
 Each project folder contains a one-page API reference document written in Markdown, based on real, tested API calls.
