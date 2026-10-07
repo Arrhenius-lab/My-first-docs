@@ -25,7 +25,7 @@ https://api.agify.io?name=Ibrahim
 ```json```
 {"count":96227,"name":"Ibrahim","age":41}
 
-- name: the person's age is guessed based on the person's name
+- name: the name that was used to guess the age
 
 - age: the person's age is guessed based on the person's name
 
